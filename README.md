@@ -11,4 +11,4 @@ I aspire becoming an efficient developer who can tackle various challenges and b
 - 🔭 I’m currently working on Demo Projects and experimenting with various technologies.
 - 🌱 I’m currently learning Clean Architecture, Design Patterns and AWS.
 
-##Familiar with:  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,spring,mysql)](https://skillicons.dev)
+## Familiar with:  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,spring,mysql)](https://skillicons.dev)
