@@ -12,7 +12,7 @@ I aspire becoming an efficient, well rounded developer who can tackle various ch
 - 🌱 I’m currently learning Clean Architecture, Design Patterns and  [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev).
 
 ## Familiar Tech: 
-### App Development  [![App Development](https://skillicons.dev/icons?i=java,kotlin,python,c,cpp)](https://skillicons.dev)
+### App Development  [![App Development](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
 ### Database Management [![Db Managment](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ### Web Development [![Web Development](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 ### Frameworks [![Frameworks](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
